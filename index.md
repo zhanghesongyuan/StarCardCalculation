@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 港剧tv明星挑战王
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/StarCardCalculation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在你的成长过程中，是否也有让你印象深刻的港剧明星，或者你非常喜欢和欣赏的明星。如果你也跟我一样钟爱港剧明星，那么你肯定也会喜欢这个有趣又有意义的应用。你可以在点击开始后，会随机展示3个明星卡在你面前，以及每个明星对应的算术方程。你需要在倒计时20秒内记住所有的明星名字和对应的算术答案，当倒计时结束后，你需要选中一个明星卡，并填入正确答案，才算挑战成功，否则挑战失败。这样既可以让喜爱的明星激励你养成良好的算术能力和记忆能力，也可以从中得到挑战的乐趣。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/StarCardCalculation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
